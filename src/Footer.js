@@ -7,8 +7,8 @@ export default function Footer() {
   return (
     <div className="Footer">
       <p id="git">
-        <a href="https://github.com/orliuk/weather">Open-source code,</a> by
-        Olga Orliuk{" "}
+        <a href="https://github.com/orliuk/weather-react">Open-source code,</a>{" "}
+        by Olga Orliuk{" "}
       </p>
       <br />
     </div>
