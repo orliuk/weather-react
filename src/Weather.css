@@ -5,7 +5,7 @@
 }
 
 .Weather h1 {
-  font-weight: bold;
+  font-size: 48px;
   padding-top: 20px;
 }
 
@@ -27,7 +27,7 @@
 }
 
 .Weather strong {
-  font-size: 64px;
+  font-size: 46px;
   line-height: 1;
   margin-left: 10px;
 }
@@ -40,4 +40,30 @@
 
 .Weather a {
   text-decoration: none;
+}
+.Weather .form-control {
+  background-color: #f4f4f8;
+  color: #adb5bd;
+  border: none;
+  box-shadow: 7px 5px 5px #adb5bd;
+}
+.Weather .btn {
+  background-color: #6798c0;
+  border: none;
+  box-shadow: 5px 5px 5px #adb5bd;
+  color: white;
+}
+.Weather .btn:hover {
+  background-color: #f4f4f8;
+  color: #8894a3;
+  border: none;
+  box-shadow: 5px 5px 5px #adb5bd;
+}
+
+.WeatherInfo a {
+  text-decoration: none;
+  color: #212529;
+}
+.WeatherInfo a:hover {
+  color: #6798c0;
 }

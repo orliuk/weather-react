@@ -7,3 +7,10 @@
   font-size: 14px;
   margin: 10px 0;
 }
+.App a {
+  text-decoration: none;
+  color: #212529;
+}
+.App a:hover {
+  color: #6798c0;
+}
